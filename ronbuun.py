@@ -5,7 +5,7 @@ root = tk.Tk()
 root.title('Ronbuun')
 root.geometry('900x600')
 
-#改行直し前のテキスト
+#改行直し前のテキストだよ
 txt1 = tk.Text(width=100, height=20)
 txt1.pack()
 
